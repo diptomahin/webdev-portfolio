@@ -303,3 +303,12 @@ main section {
     text-align: center;
     margin-top: 50px;
 }
+
+/*Footer styles*/
+ footer
+ {
+    display: flex;
+    color: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+ }
